@@ -36,7 +36,7 @@ real-world website layouts.
 
 ## How to Run
 1. Clone the repository:
-   `git clone https://github.com/muqaddas147/CSS-Project.git`
+   `git clone https://github.com/KUBRA-KHAN1/CSS-Project.git`
 2. Open the folder in VS Code
 3. Right-click `index.html` and choose **Open with Live Server**
 
